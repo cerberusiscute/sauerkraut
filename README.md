@@ -2,7 +2,7 @@
 ## Created by Mark Bailey and Sara Riccardelli starting on 19 September, 2015
 
 ## What is Sauerkraut?
-Sauerkraut is an online, cloud-based IDE that will:
+Sauerkraut is an online, cloud-based IDE that will:  
 * Be online
 * Be cloud integrated
 * Be Github integrated (using the official Github API)
@@ -14,11 +14,11 @@ Sauerkraut is an online, cloud-based IDE that will:
 	* Basic alternate keybinding sets
 	* etc., etc.
 
-## What is Sauerkraut not?
+## What is Sauerkraut not?  
 * A fully fledged desktop IDE
 * A GUI builder
 * Anything that is not listed in the section above
 
-## Who created this IDE?
+## Who created this IDE?  
 * Mark Bailey purplesweaterprogramming@gmail.com
 * Sara Riccardelli purplesweaterprogramming@gmail.com
